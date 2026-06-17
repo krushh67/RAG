@@ -47,6 +47,7 @@ Question
 ↓
 
 LLM
+
 ↓
 
 Answer
@@ -58,15 +59,25 @@ Knowledge comes only from training data.
 ## RAG System
 
 Question
+
 ↓
+
 Retriever
+
 ↓
+
 Knowledge Base
+
 ↓
+
 Relevant Context
+
 ↓
+
 LLM
+
 ↓
+
 Answer
 
 Knowledge comes from both training data and external documents.
