@@ -43,9 +43,12 @@ RAG solves these problems by retrieving relevant information before generating a
 ## Traditional LLM
 
 Question
+
 ↓
+
 LLM
 ↓
+
 Answer
 
 Knowledge comes only from training data.
